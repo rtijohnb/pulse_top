@@ -10,3 +10,6 @@
 [submodule "pulse_wis"]
 	path = pulse_wis
 	url = https://github.com/rtijohnb/pulse_wis.git
+[submodule "pulse_sysdesigner"]
+	path = pulse_sysdesigner
+	url = https://github.com/rtijohnb/pulse_sysdesigner.git
