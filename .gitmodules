@@ -1,0 +1,12 @@
+[submodule "pulse_arduino"]
+	path = pulse_arduino
+	url = https://github.com/rtijohnb/pulse_arduino.git
+[submodule "pulse_aws_routing"]
+	path = pulse_aws_routing
+	url = https://github.com/rtijohnb/pulse_aws_routing.git
+[submodule "pulse_pi"]
+	path = pulse_pi
+	url = https://github.com/rtijohnb/pulse_pi.git
+[submodule "pulse_wis"]
+	path = pulse_wis
+	url = https://github.com/rtijohnb/pulse_wis.git
